@@ -36,8 +36,11 @@ F:\git-work>git branch -M main
 F:\git-work>git push -u origin main
 
 
+F:\git-work>git add hello.txt
 
+F:\git-work>git commit -m "hello.txt"
 
+F:\git-work>git push
 
 
 F:\git-work>git --help
